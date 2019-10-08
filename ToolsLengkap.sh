@@ -43,7 +43,7 @@ case $pil in
 
 #spam sms
 
-1)git clone https://github.com/4L13199/LITESPAM
+1)git clone https://github.com/Mr.Dan17/LITESPAM
 cd LITESPAM
 sh LITESPAM.sh
 
@@ -52,7 +52,7 @@ sh LITESPAM.sh
 
 #phising game
 
-2)git clone https://github.com/CyberTCA/Phising-Game
+2)git clone https://github.com/Mr.Dan17/Phising-Game
 cd Phising-Game
 sh phising.sh
 
@@ -61,7 +61,7 @@ sh phising.sh
 
 #buat virus
 
-3)git clone https://github.com/Junior60/vbug
+3)git clone https://github.com/Mr.Dan17/vbug
 cd vbug
 python2 vbug.py
 
@@ -70,7 +70,7 @@ python2 vbug.py
 
 #hack FB VIP
 
-4)git clone https://github.com/CyberTCA/FbVIP
+4)git clone https://github.com/Mr.Dan17/FbVIP
 cd FbVIP
 bash FBVIP
 
@@ -79,7 +79,7 @@ bash FBVIP
 
 #IP geolocation
 
-5)git clone https://github.com/maldevel/IPGeolocation
+5)git clone https://github.com/Mr.Dan17/IPGeolocation
 cd IPGeolocation
 chmod +× ipgeolocation.py
 pip install -r requirements.txt
